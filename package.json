@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/apalm112/node-js-developer-assignment/issues"
   },
-  "homepage": "https://github.com/apalm112/node-js-developer-assignment#readme"
+  "homepage": "https://github.com/apalm112/node-js-developer-assignment#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "node-mocks-http": "^1.7.3",
+    "sinon": "^7.3.2"
+  }
 }
